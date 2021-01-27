@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @Author: jizongpeng
  * @Date: 2021/1/26 19:40
  * @Version: 1.0
- * @Description: 基本思想是：
+ * @Description: 快速排序 基本思想是：https://mp.weixin.qq.com/s/FVOllQoELEK3rvjpdLAxIQ
  *
  * 通过一趟排序将要排序的数据分割成独立的两部分：分割点左边都是比它小的数，右边都是比它大的数。
  *

@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @Author: jizongpeng
  * @Date: 2021/1/26 19:00
  * @Version: 1.0
- * @Description: 冒泡排序
+ * @Description: 冒泡排序：https://mp.weixin.qq.com/s/FVOllQoELEK3rvjpdLAxIQ
  */
 public class BubbleSort {
 
