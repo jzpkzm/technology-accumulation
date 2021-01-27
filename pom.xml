@@ -6,7 +6,11 @@
 
   <groupId>org.example</groupId>
   <artifactId>technology-accumulation</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>sort-algorithm</module>
+  </modules>
 
   <name>technology-accumulation</name>
   <!-- FIXME change it to the project's website -->
@@ -23,7 +27,6 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
-      <scope>test</scope>
     </dependency>
   </dependencies>
 
